@@ -4,18 +4,14 @@ Energy Prediction Model using Machine Learning and using Python GUI using Tkinte
 Use of ML in an Energy Plant
 
 
-Machine learning algorithms is used to determine energy demand  on a particular day.
- This is done by tracking how daily energy consumption changes for individual customers over time.
+Machine learning algorithms is used to determine energy demand  on a particular day. This is done by tracking how daily energy consumption changes for individual customers over time.
 
-Machine Learning models are able to generate very accurate energy demand and consumption forecasts.
- Those predictions could be used by facilities and building managers, energy companies and utilities companies to deploy energy-saving policies.
- Manufacturing companies with prediction can help make plans of how to optimize the particular operations and energy storage systems
-.
+Machine Learning models are able to generate very accurate energy demand and consumption forecasts. Those predictions could be used by facilities and building managers, energy companies and utilities companies to deploy energy-saving policies. Manufacturing companies with prediction can help make plans of how to optimize the particular operations and energy storage systems.
 Furthermore, based on city weather conditions, it can be predicted which cities are best suited for installation of new power plants
 
 
 
-Data Set Information:
+# Data Set Information:
 
 A combined cycle power plant (CCPP) is composed of gas turbines
 (GT), steam turbines (ST) and heat recovery steam generators. In a
@@ -29,7 +25,7 @@ statistical tests be carried out, we provide the data shuffled five times.
 For each shuffling 2-fold CV is carried out and the resulting 10
 measurements are used for statistical testing.
 
-Attribute Information:
+# Attribute Information:
 
 Features consist of hourly average ambient variables
 ? - Temperature (T) in the range 1.81°C and 37.11°C,
